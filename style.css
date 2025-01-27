@@ -1,11 +1,11 @@
 :root{
-    --light-color: #ebf2f1;
-    --dark-color: #181D26;
-    --light-gray-color: #c8cacd; 
-    --dark-gray-color: #4f5965; 
-    --primary-color: #393e40;
-    --secondary-color: #616468;
-    --shadow-color: #87999e;
+    --light-color: whitesmoke;
+    --dark-color: #111;
+    --light-gray-color: LightGray; 
+    --dark-gray-color: DimGray; 
+    --primary-color: rgb(69, 75, 80);
+    --secondary-color: rgb(113, 121, 121);
+    --shadow-color: gray;
     --tittle-font: "Nunito", sans-serif;
     --body-font: "Lexend", sans-serif;
     --width-section: 880px;
